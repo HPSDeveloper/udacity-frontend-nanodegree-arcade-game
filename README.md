@@ -1,6 +1,10 @@
 frontend-nanodegree-arcade-game
 ===============================
 
+This is a exercise project. It was a part of my Udacity Web Developer Nanodegree training.
+The code structure and base was provided by Udacity. The rights of the of the code belong to Undacity or myself.
+
+
 ##How to play
 The aim of the game is to cross the pavement in order to get to the lake 
 at the top of the canvas without being hit by the bugs travelling the pavement.
